@@ -3,8 +3,8 @@ import java.util.Scanner; // LIBRERIA PARA EL SCANNER
  * INSTITUTO TECNOLÓGICO DE PACHUCA
  * FUNDAMENTOS DE PROGRAMACIÓN
  * EJERCICIO: SENTENCIA IF - CÁLCULO DE SALARIO
- * JOSÉ LUIS DÍAZ CERÓN, GADIEL RAMÓN ALVAREZ ROFRIGUEZ
- *30-09-2026
+ * JOSÉ LUIS DÍAZ CERÓN,
+ * 30-09-2026
  */
 public class Calculo_Salario { // INICIO CLASE
     public static void main(String[] args) {
